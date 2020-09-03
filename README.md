@@ -6,10 +6,15 @@ You want to know a little more about the Repository pattern? [Read this great ar
 
 ## Installation
 **>= laravel 6.x**
+
 **1) composer install**
+
 **2) npm install**
+
 **3) php artisan migrate**
+
 **4) php artisan serve**
+
 ## For check mail send
 ```
 php artisan email:birthday
